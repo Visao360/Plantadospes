@@ -1,0 +1,49 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_606A3990_7E1F_E516_41C2_F4D92C49B9A4.source = https://api.whatsapp.com/send?phone=5522997464600
+LinkBehaviour_5EF2D66B_7E0A_6F09_41DE_393278BF4CAF.source = https://api.whatsapp.com/send?phone=5522997464600
+LinkBehaviour_6AD14ED2_7E35_D89F_41DE_2ED20EB7C18C.source = https://api.whatsapp.com/send?phone=5522997464600
+LinkBehaviour_5F49BDB2_7E0A_DD1B_41C3_AF90769CC62B.source = https://www.facebook.com/groups/754858287939146
+LinkBehaviour_6055E990_7E1F_E516_41C4_15B1EA24DAAF.source = https://www.facebook.com/groups/754858287939146
+LinkBehaviour_6A6DB4E1_7E36_68BD_41CA_7CED32844D71.source = https://www.facebook.com/groups/754858287939146
+LinkBehaviour_5EB6EA4A_7E0A_270B_41B2_EDC74C7159F8.source = https://www.google.com/maps/place/PLANTA+DOS+P%C3%89S/@-21.7790249,-41.2902647,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x3758e59a69461311!8m2!3d-21.7790249!4d-41.2902647
+LinkBehaviour_6D7E13DB_7E0A_E88C_41BD_0E5239D04B48.source = https://www.google.com/maps?cid=3988189921390498577
+LinkBehaviour_6069D990_7E1F_E516_41B7_7AE89A5F32AD.source = https://www.google.com/maps?cid=3988189921390498577
+LinkBehaviour_5F2A8458_7E0B_E317_41D3_B5CFDCA455CB.source = https://www.instagram.com/planta_dospesjoquei/
+LinkBehaviour_6AC3C79B_7E36_288D_41B1_A03B666514CC.source = https://www.instagram.com/planta_dospesjoquei/
+LinkBehaviour_60558990_7E1F_E516_41D7_64DBE20D8D09.source = https://www.instagram.com/planta_dospesjoquei/
+
+## Media
+
+### Audio
+audiores_683B2EE6_7FF6_5887_417C_7B602BF1D6FA.mp3Url = media/audio_66D22FAB_7FF6_388D_41D9_025C59E1BC27_pt.mp3
+
+### Title
+video_676CC671_7E0D_EB9D_41D5_BEF7C66B014C.label = Gol Neymar Seleção
+panorama_75A9F15F_7E0A_2985_41D3_601DBD09CB63.label = LOJA PLANTA DOS PÉS
+
+### Video
+videolevel_9B4B91E5_8E74_A8C1_41C5_B6614CBCDE17.posterURL = media/video_676CC671_7E0D_EB9D_41D5_BEF7C66B014C_poster_pt.jpg
+videolevel_9B4B91E5_8E74_A8C1_41C5_B6614CBCDE17.url = media/video_676CC671_7E0D_EB9D_41D5_BEF7C66B014C_pt.mp4
+
+## Skin
+
+### Button
+Button_6FD7F3DA_7E0A_688C_41CB_B125F92016EE_mobile.label = Facebook
+Button_6FD7F3DA_7E0A_688C_41CB_B125F92016EE.label = Facebook
+Button_6F682A68_7E0E_FB8B_41D9_93927628D74B_mobile.label = Instagram
+Button_6F682A68_7E0E_FB8B_41D9_93927628D74B.label = Instagram
+Button_6F083D80_7E0A_797B_4184_36320AD9C840.label = Localização
+Button_6F083D80_7E0A_797B_4184_36320AD9C840_mobile.label = Localização
+Button_6EEBF10C_7E0A_298B_41C9_31BDD03FF982_mobile.label = Whatsapp
+Button_6EEBF10C_7E0A_298B_41C9_31BDD03FF982.label = Whatsapp
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Projeto Planta dos Pés
